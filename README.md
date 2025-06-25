@@ -1,8 +1,6 @@
 ## Bem-vindo(a) ao perfil do João Pedro 😁
 
  <div>
- 
-    <a href="https://github.com/JoaoPedroS-S">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroS-S&layout=compact&langs_count=6&theme=dracula"/>
 
@@ -25,5 +23,7 @@
  
   ![Snake animation](https://github.com/JoaoPedroS-S/JoaoPedroS-S/blob/output/github-contribution-grid-snake.svg)
 
-</div>Fun fact: ...
+Fun fact: ...
 -->
+</div>
+
