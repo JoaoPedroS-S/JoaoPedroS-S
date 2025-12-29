@@ -1,4 +1,9 @@
 ## Bem-vindo(a) ao perfil do João Pedro 😁
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=008080&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 <a href="https://github.com/JoaoPedroS-S?tab=repositories&sort=stargazers">
 <img alt="Total de estrelas" title="Total de estrelas GitHub"  src="https://custom-icon-badges.demolab.com/github/stars/JoaoPedroS-S?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
@@ -22,11 +27,41 @@
 </div>​​
 
 ----
-  ### Para entrar em contato, <br> essas são as minha redes!!
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 <div>
   <a href="https://discord.gg/m5ShABEf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto: jopprofissional18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaopedrossantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+</div>
+</details>
+
+---
+
+  ### Estatística 
+  <div aling= "center">
+    <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoPedroS-S&theme=maroongold"/>
+  </div>
   
 ---
   
