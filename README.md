@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do João Pedro 😁
 
+<img aling="center" alt="minha imagem" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000ae7471f584467d650666c558&ts=490846&p=fs&cid=1&sig=f6810c0a93b8630f43e6c3a17a6ff0116349698ef182a6e7d5f5cd63aca5ca16&v=0"/>
+<br>
 **Olá, Eu sou o João Pedro, moro em São Paulo, na região de Campinas, faço faculdade em Análise e Desenvolvimento de Sistemas, na Unimetrocamp Wyden. Não Trabalho na aérea ainda, mas em busca de conseguir mostrar o meu conhecimento na aérea, tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.**
 
 <div align="center">
