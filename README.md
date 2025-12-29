@@ -1,14 +1,19 @@
 ## Bem-vindo(a) ao perfil do João Pedro 😁
 
-<img aling="center" alt="minha imagem" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000ae7471f584467d650666c558&ts=490846&p=fs&cid=1&sig=f6810c0a93b8630f43e6c3a17a6ff0116349698ef182a6e7d5f5cd63aca5ca16&v=0"/>
+**`Aprendiz de Desenvolvedor FullStack`**
+
+<div>
+  <img align="center" width="100%" src="https://i.imgur.com/C25ojJV.png" alt="minha imagem"/>
+</div>
 <br>
-**Olá, Eu sou o João Pedro, moro em São Paulo, na região de Campinas, faço faculdade em Análise e Desenvolvimento de Sistemas, na Unimetrocamp Wyden. Não Trabalho na aérea ainda, mas em busca de conseguir mostrar o meu conhecimento na aérea, tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.**
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=008080&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=008080&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Esse+sou+Eu!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
+
+**Olá, Eu sou o João Pedro, moro em São Paulo, na região de Campinas, faço faculdade em Análise e Desenvolvimento de Sistemas, na Unimetrocamp Wyden. Não Trabalho na aérea ainda, mas em busca de conseguir mostrar o meu conhecimento na aérea, tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.**
 
 <a href="https://github.com/JoaoPedroS-S?tab=repositories&sort=stargazers">
 <img alt="Total de estrelas" title="Total de estrelas GitHub"  src="https://custom-icon-badges.demolab.com/github/stars/JoaoPedroS-S?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
