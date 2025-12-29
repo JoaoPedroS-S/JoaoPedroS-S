@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do João Pedro 😁
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=João PedroS-S)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoãoPedroS-S)](https://github.com/JoaoPedroS-S/JoaoPedroS-S/blob/https/github.com/github-readme-stats)
   <img height="180em" src="https://SEU-PROJETO.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=JoaoPedroS-S&layout=compact&langs_count=6&theme=dracula"/>
