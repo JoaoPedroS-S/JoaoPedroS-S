@@ -9,6 +9,8 @@
     </a>
 </p>
 
+### 🤖 Linguagens e Tecnologias
+
 <div align="center">
 
 <div style="display: inline_block"><br>
