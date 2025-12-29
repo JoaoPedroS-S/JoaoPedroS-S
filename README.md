@@ -1,4 +1,7 @@
 ## Bem-vindo(a) ao perfil do João Pedro 😁
+
+**Olá, Eu sou o João Pedro, moro em São Paulo, na região de Campinas, faço faculdade em Análise e Desenvolvimento de Sistemas, na Unimetrocamp Wyden. Não Trabalho na aérea ainda, mas em busca de conseguir mostrar o meu conhecimento na aérea, tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.**
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=008080&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
