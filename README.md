@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do João Pedro 😁
 
-**`Aprendiz de Desenvolvedor FullStack`**
+**`Aprendiz de Desenvolvedor FullStack 👨‍💻`**
 
 <div>
   <img align="center" width="100%" src="https://i.imgur.com/C25ojJV.png" alt="minha imagem"/>
@@ -13,7 +13,11 @@
   </a>
 </div>
 
-**Olá, Eu sou o João Pedro, moro em São Paulo, na região de Campinas, faço faculdade em Análise e Desenvolvimento de Sistemas, na Unimetrocamp Wyden. Não Trabalho na aérea ainda, mas em busca de conseguir mostrar o meu conhecimento na aérea, tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.**
+Olá! Eu sou o João Pedro, sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unimetrocamp Wyden**, localizado na região de Campinas – SP.
+Atualmente, ainda não atuo profissionalmente na área de tecnologia, porém estou em constante busca por oportunidades que me permitam aplicar e demonstrar meus conhecimentos. Tenho grande interesse em aprendizado contínuo e em utilizar a tecnologia para desenvolver soluções eficientes e inovadoras.
+
+🚀 Apaixonado por tecnologia, programação e resolução de problemas.
+<br>
 
 <a href="https://github.com/JoaoPedroS-S?tab=repositories&sort=stargazers">
 <img alt="Total de estrelas" title="Total de estrelas GitHub"  src="https://custom-icon-badges.demolab.com/github/stars/JoaoPedroS-S?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
