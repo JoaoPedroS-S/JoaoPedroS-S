@@ -13,8 +13,10 @@
   </a>
 </div>
 
-Olá! Eu sou o João Pedro, sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unimetrocamp Wyden**, localizado na região de Campinas – SP.
-Atualmente, ainda não atuo profissionalmente na área de tecnologia, porém estou em constante busca por oportunidades que me permitam aplicar e demonstrar meus conhecimentos. Tenho grande interesse em aprendizado contínuo e em utilizar a tecnologia para desenvolver soluções eficientes e inovadoras.
+Olá! Eu sou o João Pedro, sou estudante de Análise e Desenvolvimento de Sistemas na Unimetrocamp Wyden, localizado na região de Campinas – SP. tenho 24 anos e sou apaixonado por tecnologia, especialmente por programação e criação de websites. No meu tempo livre, gosto de assistir animes, filmes de super-heróis e Atualmente, ainda não atuo profissionalmente na área de tecnologia, porém estou em constante busca por oportunidades que me permitam aplicar e demonstrar meus conhecimentos. Tenho grande interesse em aprendizado contínuo e em utilizar a tecnologia para desenvolver soluções eficientes e inovadoras. 
+Também sou cristão e procuro viver com base em valores como respeito, dedicação e responsabilidade.
+
+
 
 🚀 Apaixonado por tecnologia, programação e resolução de problemas.
 <br>
