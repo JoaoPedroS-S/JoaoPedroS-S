@@ -47,15 +47,20 @@ Também sou cristão e procuro viver com base em valores como respeito, dedicaç
 
 ### Estatística 
 
-<div align="center">
+<div align="center" gap="200px">
   <!-- Card de Estatísticas Principais -->
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  
-  <br><br>
+  <img height="165" style="margin-right: 40px;" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
 
   <!-- Card de Sequência de Contribuições -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroS-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" style="margin-right: 40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroS-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img align="center"  alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoPedroS-S&theme=maroongold"/>
+  
 </div>
+
+
 
 ---
 
