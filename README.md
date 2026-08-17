@@ -49,7 +49,7 @@ Também sou cristão e procuro viver com base em valores como respeito, dedicaç
 
 <div align="center" gap="200px">
   <!-- Card de Estatísticas Principais -->
-  <img height="165" style="margin-right: 40px;" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" style="margin-left: 40px;" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
 
   <!-- Card de Sequência de Contribuições -->
   <img height="165" style="margin-right: 40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroS-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -64,13 +64,21 @@ Também sou cristão e procuro viver com base em valores como respeito, dedicaç
 
 ---
 
-<div align="center">
-  <!-- Animação da Cobrinha -->
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoPedroS-S/JoaoPedroS-S/output/github-contribution-grid-snake.svg">
-</div>
+<!--animação da cobrinha-->
+<picture align="center">
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPedroS-S/JoaoPedroS-S/output/github-contribution-grid-snake-dark.svg">
+
+  <img align="center" alt="Animação de cobra da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/JoaoPedroS-S/JoaoPedroS-S/output/github-contribution-grid-snake.svg">
+
+</imagem>
 
 ---
-<br>
+<br><br>
+
+
 
 <details align="center">  
   <summary>
