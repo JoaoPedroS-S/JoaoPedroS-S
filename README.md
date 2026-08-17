@@ -35,31 +35,39 @@ Também sou cristão e procuro viver com base em valores como respeito, dedicaç
 ### 🤖 Linguagens e Tecnologias
 
 <div align="center">
+  <div>
+    <a href="https://github.com/JoaoPedroS-S">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroS-S&layout=compact&langs_count=6&theme=tokyonight" />
+    </a>
+  </div>
 
- <div>
-   <a href="https://github.com/JoaoPedroS-S">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroS-S&layout=compact&langs_count=6&theme=tokyonight"/>
+  <br>
+
+  <div>
+    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="40" alt="c logo"/>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>​​
 
 ---
 
-  ### Estatística 
-  
+### Estatística 
 
- <div>
-   <a href="https://github.com/JoaoPedroS-S">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-  <div aling= "center">
-    <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoPedroS-S&theme=maroongold"/>
+<div align="center">
+  <div>
+    <a href="https://github.com/JoaoPedroS-S">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    </a>
   </div>
+
+  <br>
+
+  <div>
+    <img align="center" alt="Top Language Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoPedroS-S&theme=maroongold" />
+  </div>
+</div>
   
 ---
   
