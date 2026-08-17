@@ -36,7 +36,9 @@ Também sou cristão e procuro viver com base em valores como respeito, dedicaç
 
 <div align="center">
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroS-S&layout=compact&theme=tokyonight&hide_border=true" />
+    <a href="https://github.com/JoaoPedroS-S">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroS-S&layout=compact&langs_count=6&theme=tokyonight" />
+    </a>
   </div>
 
   <br>
@@ -54,14 +56,18 @@ Também sou cristão e procuro viver com base em valores como respeito, dedicaç
 ### Estatística 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <br><br>
+  <div>
+    <a href="https://github.com/JoaoPedroS-S">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    </a>
+  </div>
 
-  <!-- Card substituto funcional para substituir o profile-summary-cards -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroS-S&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+
+  <div>
+    <img align="center" alt="Top Language Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoPedroS-S&theme=maroongold" />
+  </div>
 </div>
-  
 ---
   
 #
