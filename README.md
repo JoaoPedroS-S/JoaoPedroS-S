@@ -2,7 +2,7 @@
 
 **`Tecnologo em Análise e Desenvolvimento de Sistemas 👨‍💻`**
 
-<div>
+<div align="center">
   <img align="center" width="100%" src="https://i.imgur.com/C25ojJV.png" alt="minha imagem"/>
 </div>
 <br>
@@ -16,39 +16,31 @@
 Olá! Eu sou o João Pedro, sou estudante de Análise e Desenvolvimento de Sistemas na Unimetrocamp Wyden, localizado na região de Campinas – SP. tenho 22 anos e sou apaixonado por tecnologia, especialmente por programação e criação de websites. No meu tempo livre, gosto de assistir animes, filmes de super-heróis e Atualmente, ainda não atuo profissionalmente na área de tecnologia, porém estou em constante busca por oportunidades que me permitam aplicar e demonstrar meus conhecimentos. Tenho grande interesse em aprendizado contínuo e em utilizar a tecnologia para desenvolver soluções eficientes e inovadoras. 
 Também sou cristão e procuro viver com base em valores como respeito, dedicação e responsabilidade.
 
-
-
 🚀 Apaixonado por tecnologia, programação e resolução de problemas.
 <br>
 
 <a href="https://github.com/JoaoPedroS-S?tab=repositories&sort=stargazers">
-<img alt="Total de estrelas" title="Total de estrelas GitHub"  src="https://custom-icon-badges.demolab.com/github/stars/JoaoPedroS-S?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+  <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://img.shields.io/github/stars/JoaoPedroS-S?style=for-the-badge&color=55960c&labelColor=488207&label=estrelas&logo=github"/>
 </a>
 <a href="https://github.com/JoaoPedroS-S?tab=followers">
-  <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/JoaoPedroS-S?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+  <img alt="Seguidores" title="Me siga no GitHub" src="https://img.shields.io/github/followers/JoaoPedroS-S?style=for-the-badge&color=236ad3&labelColor=1155ba&label=Seguidores&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
 <div align="center">
-  <!-- Card de Linguagens Mais Usadas -->
-  <div>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroS-S&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-  </div>
+  <!-- Card de Linguagens -->
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoPedroS-S&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  
+  <br><br>
 
-  <br>
-
-  <!-- Ícones das Tecnologias -->
-  <div>
-    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+  <!-- Badges de Tecnologias em HD -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ---
@@ -56,25 +48,23 @@ Também sou cristão e procuro viver com base em valores como respeito, dedicaç
 ### Estatística 
 
 <div align="center">
-  <!-- Card de Sequência e Atividade (Substitui o Profile-Details antigo) -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroS-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Card de Estatísticas Principais -->
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
   
   <br><br>
 
-  <!-- Card Geral de Estatísticas -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroS-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <!-- Card de Sequência de Contribuições -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroS-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 ---
-  
-###
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPedroS-S/JoaoPedroS-S/output/github-contribution-grid-snake-dark.svg">
+<div align="center">
+  <!-- Animação da Cobrinha -->
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoPedroS-S/JoaoPedroS-S/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
 
-----
+---
 <br>
 
 <details align="center">  
@@ -84,30 +74,26 @@ Também sou cristão e procuro viver com base em valores como respeito, dedicaç
       </samp>
   </summary>
   
-<br>
+  <br><br>
 
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-<div>
-  <a href="https://discord.gg/m5ShABEf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: jopprofissional18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaopedrossantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  <div align="center">
+    <samp>
+      <b>Contact me:</b>
+    </samp>
+    <br><br>
+    <a href="https://discord.gg/m5ShABEf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+    <a href="mailto:jopprofissional18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/joaopedrossantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </div>
 
   <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=JoaoPedroS-S&style=flat-square&color=755b25" /></p> 
-</div>
+  <div align="center">
+    <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=JoaoPedroS-S&style=flat-square&color=755b25" /></p> 
+  </div>
 
+  <br>
+</details>
 <br>
 </div>
 </details>
