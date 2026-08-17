@@ -68,6 +68,7 @@ Também sou cristão e procuro viver com base em valores como respeito, dedicaç
     <img align="center" alt="Top Language Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoPedroS-S&theme=maroongold" />
   </div>
 </div>
+
 ---
   
 ###
